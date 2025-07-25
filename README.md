@@ -1,6 +1,6 @@
 [🇷🇺 Русский](README.ru.md)
 
-# 🎮 Nu Pogodi (Ну, погоди!)
+# 🎮 Nu Pogodi! (Ну, погоди!)
 
 This game is a copy of the Soviet game "Nu, Pogodi". It is unofficial copy and analogue of Nintendo EG-26 Egg from Nintendo Game & Watch series.
 ### 👉 [Play the game on Itch.io](https://zaza.itch.io/nu-pogodi)

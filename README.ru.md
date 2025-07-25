@@ -1,6 +1,6 @@
 [🇬🇧 English](README.md)
 
-# 🎮 Nu Pogodi (Ну, погоди!)
+# 🎮 Nu Pogodi! (Ну, погоди!)
 
 Эта игра — копия советской игры "Ну, погоди!", неофициальный аналог Nintendo EG-26 Egg из серии Game & Watch.
 

@@ -33,10 +33,10 @@ It’s a simple endless arcade where you catch eggs and try not to let the wolf 
 
 ## 👩‍💻 Developer
 
-Azaliya (@zazaraisovna)
+Azaliya ([@zazaraisovna](https://github.com/zazaraisovna))
 
 Indie game developer. I love 2D, narrative design, and a little bit of magic ✨
 
-More projects on my GitHub page
+More projects on my [GitHub page](https://github.com/zazaraisovna)
 
 🎨 Pixel art • 🎮 Unity • 🧪 Game jams
